@@ -49,5 +49,24 @@ namespace RedMenTeWeb.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public ActionResult Calendario()
+        {
+            return View();
+        }
+
+
+        [HttpGet]
+        public ActionResult Profile()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult Seguridad()
+        {
+            return View();
+        }
     }
 }

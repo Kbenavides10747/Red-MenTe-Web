@@ -1,0 +1,45 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container my-5">
+    <h1 class="text-center mb-4" style="color: #7C3AED;">Perfil de Usuario</h1>
+
+    <!-- Información del usuario -->
+    <div class="card shadow-lg mb-4" style="max-width: 800px; margin: 0 auto;">
+        <div class="card-body">
+            <h4 class="card-title" style="color: #000000;">Información Personal</h4>
+            <form method="post" action="/Profile/Update">
+                <!-- Nombre -->
+                <div class="form-group">
+                    <label for="name" style="color: #7C3AED;">Nombre</label>
+                    <input type="text" class="form-control" id="name" name="name" value="Juan Pérez" required>
+                </div>
+                <!-- Correo electrónico -->
+                <div class="form-group">
+                    <label for="email" style="color: #7C3AED;">Correo Electrónico</label>
+                    <input type="email" class="form-control" id="email" name="email" value="juan.perez@example.com" required>
+                </div>
+                <!-- Teléfono -->
+                <div class="form-group">
+                    <label for="phone" style="color: #7C3AED;">Teléfono</label>
+                    <input type="tel" class="form-control" id="phone" name="phone" value="+506 8888-9999">
+                </div>
+                <!-- Dirección -->
+                <div class="form-group">
+                    <label for="address" style="color: #7C3AED;">Dirección</label>
+                    <textarea class="form-control" id="address" name="address" rows="3">San José, Costa Rica</textarea>
+                </div>
+                <!-- Botones de acción -->
+                <div class="text-center mt-4">
+                    <button type="submit" class="btn" style="background-color: #7C3AED; color: #FFFFFF; margin-right: 10px;">
+                        Guardar Cambios
+                    </button>
+                    <button type="reset" class="btn" style="background-color: #FF0000; color: #FFFFFF;">
+                        Cancelar
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
