@@ -68,5 +68,16 @@ namespace RedMenTeWeb.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public ActionResult Admin()
+        {
+            return View();
+        }
+        [HttpGet]
+        public ActionResult Estadisticas()
+        {
+            return View();
+        }
     }
 }
