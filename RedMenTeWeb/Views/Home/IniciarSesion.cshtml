@@ -8,19 +8,19 @@
     <div class="row col-xl-10 col-lg-12">
         <!-- Sección de imagen -->
         <div class="col-md-6 d-none d-md-block">
-            <img src="~/Templates/img/LogotipoRedMenTe.jpg" alt="Imagen Lateral" style="width: 100%; height: auto; border-radius: 10px;"/>
+            <img src="~/Templates/img/LogotipoRedMenTe.jpg" alt="Imagen Lateral" style="width: 100%; height: auto; border-radius: 10px;" />
         </div>
         <!-- Sección del formulario -->
         <div class="col-md-6">
             <div class="card o-hidden border-0 shadow-lg">
                 <div class="card-body p-4">
                     <div class="text-center">
-                        <h1 class="h4" style="color: #000000;">Iniciar Sesión</h1>
+                        <h1 class="h4" style="color: #3B82F6;">Iniciar Sesión</h1>
                     </div>
 
                     @if (ViewBag.Mensaje != null)
                     {
-                        <div class="alert alert-warning text-center">
+                        <div class="alert alert-warning text-center" style="background-color: #10B981; color: #FFFFFF;">
                             @ViewBag.Mensaje
                         </div>
                     }
@@ -29,26 +29,25 @@
                     {
                         <form class="user">
                             <div class="form-group">
-                                @Html.TextBoxFor(x => x.Identificacion, new { @class = "form-control", @placeholder = "Identificación" })
+                                @Html.TextBoxFor(x => x.Identificacion, new { @class = "form-control", @placeholder = "Identificación", @style = "color: #333333; border: 1px solid #7C3AED;" })
                             </div>
                             <div class="form-group">
-                                @Html.TextBoxFor(x => x.Contrasenna, new { @class = "form-control", @placeholder = "Contraseña", @type = "password" })
+                                @Html.TextBoxFor(x => x.Contrasenna, new { @class = "form-control", @placeholder = "Contraseña", @type = "password", @style = "color: #333333; border: 1px solid #7C3AED;" })
                             </div>
-                            <input type="submit" class="btn btn-block" value="Procesar" style="background-color: #FFFFFF; color: #000000; border: 1px solid #7C3AED;"
+                            <input type="submit" class="btn btn-block" value="Procesar" style="background-color: #3B82F6; color: #FFFFFF; border: none;"
                                    onmouseover="this.style.backgroundColor='#7C3AED'; this.style.color='#FFFFFF';"
-                                   onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#000000';">
-
+                                   onmouseout="this.style.backgroundColor='#3B82F6'; this.style.color='#FFFFFF';">
                         </form>
                     }
                     <hr>
                     <div class="text-center">
-                        <a class="small" href="@Url.Action("RecuperarContrasenna", "Home")" style="color: #7C3AED;">Recuperar Contraseña?</a>
+                        <a class="small" href="@Url.Action("RecuperarContrasenna", "Home")" style="color: #3B82F6;">Recuperar Contraseña?</a>
                     </div>
                     <div class="text-center">
-                        <a class="small" href="@Url.Action("RegistrarCuenta", "Home")" style="color: #7C3AED;">Crear una cuenta!</a>
+                        <a class="small" href="@Url.Action("RegistrarCuenta", "Home")" style="color: #3B82F6;">Crear una cuenta!</a>
                     </div>
                     <div class="text-center">
-                        <a class="small" href="@Url.Action("Index", "Home")" style="color: #7C3AED;">Pantalla Principal!</a>
+                        <a class="small" href="@Url.Action("Index", "Home")" style="color: #3B82F6;">Pantalla Principal!</a>
                     </div>
 
                 </div>

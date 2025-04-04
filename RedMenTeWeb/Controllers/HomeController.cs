@@ -28,9 +28,8 @@ namespace RedMenTeWeb.Controllers
         }
 
         [HttpGet]
-        public ActionResult About()
+        public ActionResult Proyectos()
         {
-            ViewBag.Message = "Your application description page.";
 
             return View();
         }
