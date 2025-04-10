@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF519DB-EC5B-477F-93EB-176E69457EA8}|RedMenTeWeb\\RedMenTeWeb.csproj|c:\\users\\kathy\\onedrive - universidad fid\u00E9litas\\escritorio\\progra avanzada\\red-mente-web\\redmenteweb\\views\\home\\miscertificados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FF519DB-EC5B-477F-93EB-176E69457EA8}|RedMenTeWeb\\RedMenTeWeb.csproj|solutionrelative:redmenteweb\\views\\home\\miscertificados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF519DB-EC5B-477F-93EB-176E69457EA8}|RedMenTeWeb\\RedMenTeWeb.csproj|c:\\users\\kathy\\onedrive - universidad fid\u00E9litas\\escritorio\\progra avanzada\\red-mente-web\\redmenteweb\\views\\home\\detallecertificados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FF519DB-EC5B-477F-93EB-176E69457EA8}|RedMenTeWeb\\RedMenTeWeb.csproj|solutionrelative:redmenteweb\\views\\home\\detallecertificados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF519DB-EC5B-477F-93EB-176E69457EA8}|RedMenTeWeb\\RedMenTeWeb.csproj|c:\\users\\kathy\\onedrive - universidad fid\u00E9litas\\escritorio\\progra avanzada\\red-mente-web\\redmenteweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FF519DB-EC5B-477F-93EB-176E69457EA8}|RedMenTeWeb\\RedMenTeWeb.csproj|solutionrelative:redmenteweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF519DB-EC5B-477F-93EB-176E69457EA8}|RedMenTeWeb\\RedMenTeWeb.csproj|c:\\users\\kathy\\onedrive - universidad fid\u00E9litas\\escritorio\\progra avanzada\\red-mente-web\\redmenteweb\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FF519DB-EC5B-477F-93EB-176E69457EA8}|RedMenTeWeb\\RedMenTeWeb.csproj|solutionrelative:redmenteweb\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF519DB-EC5B-477F-93EB-176E69457EA8}|RedMenTeWeb\\RedMenTeWeb.csproj|c:\\users\\kathy\\onedrive - universidad fid\u00E9litas\\escritorio\\progra avanzada\\red-mente-web\\redmenteweb\\views\\home\\calendario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FF519DB-EC5B-477F-93EB-176E69457EA8}|RedMenTeWeb\\RedMenTeWeb.csproj|solutionrelative:redmenteweb\\views\\home\\calendario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF519DB-EC5B-477F-93EB-176E69457EA8}|RedMenTeWeb\\RedMenTeWeb.csproj|c:\\users\\kathy\\onedrive - universidad fid\u00E9litas\\escritorio\\progra avanzada\\red-mente-web\\redmenteweb\\views\\home\\recordatorioprogreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FF519DB-EC5B-477F-93EB-176E69457EA8}|RedMenTeWeb\\RedMenTeWeb.csproj|solutionrelative:redmenteweb\\views\\home\\recordatorioprogreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 914,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calendario.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\RedMenTeWeb\\Views\\Home\\Calendario.cshtml",
+              "RelativeDocumentMoniker": "RedMenTeWeb\\Views\\Home\\Calendario.cshtml",
+              "ToolTip": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\RedMenTeWeb\\Views\\Home\\Calendario.cshtml",
+              "RelativeToolTip": "RedMenTeWeb\\Views\\Home\\Calendario.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T20:23:04.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MisCertificados.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\RedMenTeWeb\\Views\\Home\\MisCertificados.cshtml",
+              "RelativeDocumentMoniker": "RedMenTeWeb\\Views\\Home\\MisCertificados.cshtml",
+              "ToolTip": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\RedMenTeWeb\\Views\\Home\\MisCertificados.cshtml",
+              "RelativeToolTip": "RedMenTeWeb\\Views\\Home\\MisCertificados.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T19:49:24.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetalleCertificados.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\RedMenTeWeb\\Views\\Home\\DetalleCertificados.cshtml",
+              "RelativeDocumentMoniker": "RedMenTeWeb\\Views\\Home\\DetalleCertificados.cshtml",
+              "ToolTip": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\RedMenTeWeb\\Views\\Home\\DetalleCertificados.cshtml",
+              "RelativeToolTip": "RedMenTeWeb\\Views\\Home\\DetalleCertificados.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T19:49:02.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\RedMenTeWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RedMenTeWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\RedMenTeWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RedMenTeWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwHAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T23:59:34.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\RedMenTeWeb\\Views\\Home\\Proyectos.cshtml",
+              "RelativeDocumentMoniker": "RedMenTeWeb\\Views\\Home\\Proyectos.cshtml",
+              "ToolTip": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\RedMenTeWeb\\Views\\Home\\Proyectos.cshtml",
+              "RelativeToolTip": "RedMenTeWeb\\Views\\Home\\Proyectos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T20:03:36.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecordatorioProgreso.cshtml",
+              "DocumentMoniker": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\RedMenTeWeb\\Views\\Home\\RecordatorioProgreso.cshtml",
+              "RelativeDocumentMoniker": "RedMenTeWeb\\Views\\Home\\RecordatorioProgreso.cshtml",
+              "ToolTip": "C:\\Users\\kathy\\OneDrive - Universidad Fid\u00E9litas\\Escritorio\\Progra avanzada\\Red-MenTe-Web\\RedMenTeWeb\\Views\\Home\\RecordatorioProgreso.cshtml",
+              "RelativeToolTip": "RedMenTeWeb\\Views\\Home\\RecordatorioProgreso.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T19:52:15.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\RedMenTeWeb.dll.config
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\RedMenTeWeb.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\RedMenTeWeb.pdb
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\csc.exe
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\csc.exe.config
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\csc.rsp
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\csi.exe
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\csi.exe.config
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\csi.rsp
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.AppContext.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Console.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\vbc.exe
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\vbc.exe.config
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\vbc.rsp
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\Antlr3.Runtime.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\Newtonsoft.Json.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.Helpers.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.Mvc.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.Optimization.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.Razor.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.WebPages.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\WebGrease.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.Helpers.xml
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.Mvc.xml
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.Optimization.xml
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.Razor.xml
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.WebPages.xml
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\Newtonsoft.Json.xml
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\Antlr3.Runtime.pdb
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\obj\Debug\RedMenTeWeb.csproj.AssemblyReference.cache
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\obj\Debug\RedMenTeWeb.csproj.CoreCompileInputs.cache
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\obj\Debug\RedMenTe.52D43253.Up2Date
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\obj\Debug\RedMenTeWeb.dll
+C:\Users\kathy\source\repos\RedMenTeWeb\RedMenTeWeb\obj\Debug\RedMenTeWeb.pdb
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\RedMenTeWeb.dll.config
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\RedMenTeWeb.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\RedMenTeWeb.pdb
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\csc.exe
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\csc.exe.config
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\csc.rsp
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\csi.exe
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\csi.exe.config
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\csi.rsp
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.AppContext.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Console.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\vbc.exe
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\vbc.exe.config
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\vbc.rsp
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\Antlr3.Runtime.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\Newtonsoft.Json.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.Helpers.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.Mvc.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.Optimization.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.Razor.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.WebPages.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\WebGrease.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.Helpers.xml
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.Mvc.xml
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.Optimization.xml
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.Razor.xml
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.WebPages.xml
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\Newtonsoft.Json.xml
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\Antlr3.Runtime.pdb
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\obj\Debug\RedMenTeWeb.csproj.AssemblyReference.cache
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\obj\Debug\RedMenTeWeb.csproj.CoreCompileInputs.cache
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\obj\Debug\RedMenTe.52D43253.Up2Date
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\obj\Debug\RedMenTeWeb.dll
+C:\Users\kathy\OneDrive - Universidad Fidélitas\Escritorio\Progra avanzada\Red-MenTe-Web\RedMenTeWeb\obj\Debug\RedMenTeWeb.pdb
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\RedMenTeWeb.dll.config
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\RedMenTeWeb.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\RedMenTeWeb.pdb
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\csc.exe
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\csc.exe.config
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\csc.rsp
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\csi.exe
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\csi.exe.config
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\csi.rsp
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Console.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\vbc.exe
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\vbc.exe.config
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\vbc.rsp
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\Antlr3.Runtime.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\Newtonsoft.Json.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.Helpers.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.Mvc.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.Optimization.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.Razor.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.WebPages.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\WebGrease.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.Helpers.xml
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.Mvc.xml
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.Optimization.xml
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.Razor.xml
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.WebPages.xml
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\Newtonsoft.Json.xml
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\obj\Debug\RedMenTeWeb.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\obj\Debug\RedMenTeWeb.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\obj\Debug\RedMenTe.52D43253.Up2Date
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\obj\Debug\RedMenTeWeb.dll
+C:\Users\Desktop\Desktop\Red-MenTe-Web - Copy\RedMenTeWeb\obj\Debug\RedMenTeWeb.pdb
