@@ -35,6 +35,16 @@ namespace RedMenTeWeb.Controllers
         }
 
         [HttpGet]
+<<<<<<< HEAD
+        public ActionResult RecordatorioProgreso()
+        {
+
+            return View();
+        }
+
+        [HttpGet]
+=======
+>>>>>>> main
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
@@ -55,6 +65,26 @@ namespace RedMenTeWeb.Controllers
             return View();
         }
 
+<<<<<<< HEAD
+        [HttpGet]
+        public ActionResult Foro()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult DetalleForo()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult CrearPublicacion()
+        {
+            return View();
+        }
+=======
+>>>>>>> main
 
         [HttpGet]
         public ActionResult Profile()
@@ -63,6 +93,21 @@ namespace RedMenTeWeb.Controllers
         }
 
         [HttpGet]
+<<<<<<< HEAD
+        public ActionResult MisCertificados()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult DetalleCertificados()
+        {
+            return View();
+        }
+
+        [HttpGet]
+=======
+>>>>>>> main
         public ActionResult Seguridad()
         {
             return View();
