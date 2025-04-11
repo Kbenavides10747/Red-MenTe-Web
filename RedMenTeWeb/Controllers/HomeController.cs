@@ -14,7 +14,7 @@ namespace RedMenTeWeb.Controllers
         {
             return View();
         }
-
+#region Acceso
         [HttpGet]
         public ActionResult RegistrarCuenta()
         {
@@ -28,6 +28,15 @@ namespace RedMenTeWeb.Controllers
         }
 
         [HttpGet]
+
+        public ActionResult RecuperarContrasenna()
+        {
+            return View();
+        }
+        #endregion
+
+#region Usuario
+        [HttpGet]
         public ActionResult Proyectos()
         {
 
@@ -35,19 +44,12 @@ namespace RedMenTeWeb.Controllers
         }
 
         [HttpGet]
-        public ActionResult Contact()
+        public ActionResult RecordatorioProgreso()
         {
-            ViewBag.Message = "Your contact page.";
 
             return View();
         }
 
-        [HttpGet]
-
-        public ActionResult RecuperarContrasenna()
-        {
-            return View();
-        }
 
         [HttpGet]
         public ActionResult Calendario()
@@ -55,6 +57,23 @@ namespace RedMenTeWeb.Controllers
             return View();
         }
 
+        [HttpGet]
+        public ActionResult Foro()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult DetalleForo()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult CrearPublicacion()
+        {
+            return View();
+        }
 
         [HttpGet]
         public ActionResult Profile()
@@ -63,11 +82,24 @@ namespace RedMenTeWeb.Controllers
         }
 
         [HttpGet]
-        public ActionResult Seguridad()
+        public ActionResult MisCertificados()
         {
             return View();
         }
 
+        [HttpGet]
+        public ActionResult DetalleCertificados()
+        {
+            return View();
+        }
+#endregion
+
+        [HttpGet]
+        public ActionResult Seguridad()
+        {
+            return View();
+        }
+#region Admin
         [HttpGet]
         public ActionResult Admin()
         {
@@ -78,5 +110,72 @@ namespace RedMenTeWeb.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public ActionResult GestionProyectos()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult Patrocinadores()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult GestionForo()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult GestionCertificados()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult Participantes()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult GestionCalendario()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult Voluntarios()
+        {
+            return View();
+        }
+
+        #endregion
+
+
+        #region Evaluador
+
+        [HttpGet]
+        public ActionResult Evaluadores()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult Comparaciones()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult Retroalimentacion()
+        {
+            return View();
+        }
+
+        #endregion
     }
 }

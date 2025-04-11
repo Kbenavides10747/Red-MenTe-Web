@@ -23,7 +23,7 @@
     <div class="container-fluid d-none d-lg-block">
         <div class="row align-items-center py-4 px-xl-5">
             <div class="col-lg-3">
-                <a href="@Url.Action("Index","Home")" class="text-decoration-none">
+                <a href="@Url.Action("Admin","Home")" class="text-decoration-none">
                     <img src="~/Templates/img/LogoRedMenTe.jpg" style="height: 50px; margin-right: 10px;" />
                     <h1 class="m-0" style="display: inline;">
                         <span style="color: #000000;">Red</span>
@@ -32,7 +32,30 @@
                     </h1>
                 </a>
             </div>
-
+            <div class="col-lg-3 text-right">
+                <div class="d-inline-flex align-items-center">
+                    <i class="fas fa-map-marker-alt" style="color: #7C3AED; font-size: 2em; margin-right: 0.5em;"></i>
+                    <div class="text-left">
+                        <h6 class="font-weight-semi-bold mb-1">Ubicación</h6><small>San José, Costa Rica</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 text-right">
+                <div class="d-inline-flex align-items-center">
+                    <i class="fas fa-envelope" style="color: #7C3AED; font-size: 2em; margin-right: 0.5em;"></i>
+                    <div class="text-left">
+                        <h6 class="font-weight-semi-bold mb-1">Correo electrónico</h6><small>info@ideasenaccion.com</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 text-right">
+                <div class="d-inline-flex align-items-center">
+                    <i class="fas fa-phone" style="color: #7C3AED; font-size: 2em; margin-right: 0.5em;"></i>
+                    <div class="text-left">
+                        <h6 class="font-weight-semi-bold mb-1">Teléfono</h6><small>+506 8821-2322</small>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <div class="container-fluid">
@@ -53,6 +76,16 @@
                         <a href="@Url.Action("IniciarSesion","Home")" class="nav-item nav-link" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Salir</a>
                         <a href="@Url.Action("Profile","Home")" class="nav-item nav-link" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Perfil</a>
                         <a href="@Url.Action("Seguridad","Home")" class="nav-item nav-link" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Seguridad</a>
+                        <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Gestiones</a>
+                            <div class="dropdown-menu rounded-0 m-0">
+                                <a href="@Url.Action("Participantes","Home")" class="dropdown-item" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Participantes</a>
+                                <a href="@Url.Action("GestionCalendario","Home")" class="dropdown-item" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Calendario</a>
+                                <a href="@Url.Action("GestionProyectos","Home")" class="dropdown-item" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Proyectos/Cursos</a>
+                                <a href="@Url.Action("GestionForo","Home")" class="dropdown-item" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Foro</a>
+                                <a href="@Url.Action("GestionCertificados","Home")" class="dropdown-item" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Certificaciones</a>
+                                </div>
+                        </div>
                     </div>
 
                 </nav>
@@ -73,19 +106,13 @@
                     </button>
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav py-0">
-                            <a href="@Url.Action("Estadisticas","Home")" class="nav-item nav-link" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Estadísticas y Reportes</a>
-                            <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Gestiones</a>
-                                <div class="dropdown-menu rounded-0 m-0">
-                                    <a href="blog.html" class="dropdown-item" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Permisos</a>
-                                    <a href="single.html" class="dropdown-item" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Calendario</a>
-                                    <a href="single.html" class="dropdown-item" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Proyectos/Cursos</a>
-                                    <a href="single.html" class="dropdown-item" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Patrocinadores</a>
-                                    <a href="single.html" class="dropdown-item" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Certificaciones</a>
-                                    <a href="single.html" class="dropdown-item" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Voluntarios</a>
-                                    <a href="single.html" class="dropdown-item" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Evaluadores</a>
-                                </div>
-                            </div> </div>
+
+                            <a href="@Url.Action("Admin","Home")" class="nav-item nav-link" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Inicio</a><a href="@Url.Action("Estadisticas","Home")" class="nav-item nav-link" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Estadísticas y Reportes</a>
+                            <a href="@Url.Action("Evaluadores","Home")" class="nav-item nav-link" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Evaluadores</a>
+                            <a href="@Url.Action("Patrocinadores","Home")" class="nav-item nav-link" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Patrocinadores</a>
+                            <a href="@Url.Action("Voluntarios","Home")" class="nav-item nav-link" style="color: #000000;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#000000'">Voluntarios</a>
+
+                        </div>
                     </div>
                 </nav>
                 <div class="col-lg-12" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
@@ -94,14 +121,31 @@
                     </div>
                 </div>
             </div>
-            
+
 
         </div>
     </div>
-    <footer class="sticky-footer bg-white">
-        <div class="container my-auto">
-            <div class="copyright text-center my-auto">
-                <span>Copyright &copy; @DateTime.Now.Year</span>
+    <footer>
+        <div class="container-fluid text-white py-5 px-sm-3 px-lg-5" style="background:#333333;">
+            <div class="row pt-5">
+                <div class="col-md-6">
+                    <h5 class="text-uppercase mb-4" style="color: #7C3AED;">Contáctanos</h5>
+                    <p><i class="fas fa-map-marker-alt mr-2"></i>San José, Costa Rica</p>
+                    <p><i class="fas fa-phone-alt mr-2"></i>+506 8821-2322</p>
+                    <p><i class="fas fa-envelope mr-2"></i>info@ideasenaccion.com</p>
+                </div>
+                <div class="col-md-6 text-md-right">
+                    <h5 class="text-uppercase mb-4" style="color: #7C3AED;">Síguenos</h5>
+                    <a class="btn btn-outline-light btn-square mr-2" role="button" href="#">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a class="btn btn-outline-light btn-square mr-2" role="button" href="#">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a class="btn btn-outline-light btn-square mr-2" role="button" href="#">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                </div>
             </div>
         </div>
     </footer>

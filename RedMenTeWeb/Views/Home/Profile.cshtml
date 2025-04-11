@@ -2,44 +2,52 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<div class="container my-5">
-    <h1 class="text-center mb-4" style="color: #7C3AED;">Perfil de Usuario</h1>
-
-    <!-- Información del usuario -->
-    <div class="card shadow-lg mb-4" style="max-width: 800px; margin: 0 auto;">
-        <div class="card-body">
-            <h4 class="card-title" style="color: #000000;">Información Personal</h4>
-            <form method="post" action="/Profile/Update">
-                <!-- Nombre -->
-                <div class="form-group">
-                    <label for="name" style="color: #7C3AED;">Nombre</label>
-                    <input type="text" class="form-control" id="name" name="name" value="Juan Pérez" required>
+<div class="container my-5" style="height: 90vh;">
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="card border-0 shadow">
+                <div class="card-body text-center">
+                    <img class="rounded-circle mb-3" src="assets/img/user-placeholder.png" alt="Foto de perfil" style="width:150px;height:150px;">
+                    <h4 class="font-weight-bold" style="color: #7C3AED;">Juan Pérez</h4>
+                    <p class="font-weight-bold" style="color: #7C3AED;">Usuario Regular</p>
+                    <button class="btn btn-primary btn-block mt-3" style="background-color: #10B981; border-color: #7C3AED;">Editar Perfil</button>
+                    <button class="btn btn-outline-danger btn-block mt-2" style="color: #7C3AED; border-color: #7C3AED;">Eliminar Cuenta</button>
                 </div>
-                <!-- Correo electrónico -->
-                <div class="form-group">
-                    <label for="email" style="color: #7C3AED;">Correo Electrónico</label>
-                    <input type="email" class="form-control" id="email" name="email" value="juan.perez@example.com" required>
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="card border-0 shadow mb-4">
+                <div class="card-header text-white" style="background-color: #10B981;">
+                    <h5 class="m-0">Información Personal</h5>
                 </div>
-                <!-- Teléfono -->
-                <div class="form-group">
-                    <label for="phone" style="color: #7C3AED;">Teléfono</label>
-                    <input type="tel" class="form-control" id="phone" name="phone" value="+506 8888-9999">
+                <div class="card-body">
+                    <p><strong style="color: #7C3AED;">Nombre:</strong> Juan Pérez</p>
+                    <p><strong style="color: #7C3AED;">Correo Electrónico:</strong> juan.perez@example.com</p>
+                    <p><strong style="color: #7C3AED;">Teléfono:</strong> +506 8821-2322</p>
+                    <p><strong style="color: #7C3AED;">Rol:</strong> Usuario Regular</p>
                 </div>
-                <!-- Dirección -->
-                <div class="form-group">
-                    <label for="address" style="color: #7C3AED;">Dirección</label>
-                    <textarea class="form-control" id="address" name="address" rows="3">San José, Costa Rica</textarea>
+            </div>
+            <div class="card border-0 shadow mb-4">
+                <div class="card-header text-white" style="background-color: #10B981;">
+                    <h5 class="m-0">Resumen de Actividades</h5>
                 </div>
-                <!-- Botones de acción -->
-                <div class="text-center mt-4">
-                    <button type="submit" class="btn" style="background-color: #7C3AED; color: #FFFFFF; margin-right: 10px;">
-                        Guardar Cambios
-                    </button>
-                    <button type="reset" class="btn" style="background-color: #FF0000; color: #FFFFFF;">
-                        Cancelar
-                    </button>
+                <div class="card-body">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item"><strong style="color: #7C3AED;">Proyectos Completados:</strong><span> 5</span></li>
+                        <li class="list-group-item"><strong style="color: #7C3AED;">Actividades en Progreso:</strong><span> 3</span></li>
+                        <li class="list-group-item"><strong style="color: #7C3AED;">Última Actividad:</strong><span> 01/04/2025</span></li>
+                    </ul>
                 </div>
-            </form>
+            </div>
+            <div class="card border-0 shadow">
+                <div class="card-header text-white" style="background-color: #10B981;">
+                    <h5 class="m-0">Notificaciones</h5>
+                </div>
+                <div class="card-body">
+                    <p class="text-warning"><i class="fas fa-exclamation-circle"></i> Han pasado más de 6 meses desde tu última actualización. <a href="#" style="color: #7C3AED;">Actualiza tu perfil</a>.</p>
+                    <p class="text-danger"><i class="fas fa-times-circle"></i> Faltan datos obligatorios en tu perfil. <a href="#" style="color: #7C3AED;">Completa tu información</a>.</p>
+                </div>
+            </div>
         </div>
     </div>
 </div>
