@@ -336,12 +336,15 @@
     <Content Include="Views\Shared\_LayoutAdmin.cshtml" />
     <Content Include="Views\Home\Admin.cshtml" />
     <Content Include="Views\Home\Estadisticas.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Home\Foro.cshtml" />
     <Content Include="Views\Home\DetalleForo.cshtml" />
     <Content Include="Views\Home\CrearPublicacion.cshtml" />
     <Content Include="Views\Home\DetalleCertificados.cshtml" />
     <Content Include="Views\Home\MisCertificados.cshtml" />
     <Content Include="Views\Home\RecordatorioProgreso.cshtml" />
+=======
+>>>>>>> main
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
