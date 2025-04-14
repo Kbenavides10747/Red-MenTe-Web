@@ -19,11 +19,15 @@
     <link href="~/Templates/css/style.css" rel="stylesheet" />
 </head>
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <body style="color: #333333;">
 =======
 <body>
 >>>>>>> main
+=======
+<body style="color: #333333;">
+>>>>>>> Stashed changes
     <div class="container-fluid d-none d-lg-block">
         <div class="row align-items-center py-4 px-xl-5">
             <div class="col-lg-3">
@@ -36,7 +40,10 @@
                     </h1>
                 </a>
             </div>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
             <div class="col-lg-3 text-right">
                 <div class="d-inline-flex align-items-center">
                     <i class="fas fa-map-marker-alt" style="color: #7C3AED; font-size: 2em; margin-right: 0.5em;"></i>
@@ -62,6 +69,7 @@
                 </div>
             </div>
 
+<<<<<<< Updated upstream
         </div>
     </div>
     <div class="container-fluid">
@@ -122,6 +130,8 @@
     
     <a href="#" class="btn btn-lg btn-lg-square back-to-top" style="background-color: #7C3AED; color: #FFFFFF;">
 =======
+=======
+>>>>>>> Stashed changes
         </div>
     </div>
     <div class="container-fluid">
@@ -130,21 +140,24 @@
                 <a class="d-flex align-items-center justify-content-between w-100 text-decoration-none"
                    data-toggle="collapse"
                    href="#navbar-vertical"
-                   style="background-color: #FFFFFF; height: 67px; padding: 0 30px; color: #333333;
-                   transition: background-color 0.3s, color 0.3s;"
+                   style="background-color: #FFFFFF; height: 67px; padding: 0 30px; color: #000000;
+            transition: background-color 0.3s, color 0.3s;"
                    onmouseover="this.style.backgroundColor='#7C3AED'; this.style.color='#FFFFFF';"
-                   onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#333333';">
+                   onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#000000';">
                     <h5 class="m-0"><i class="fa fa-book-open mr-2"></i>Perfil</h5>
-                    <i class="fa fa-angle-down" style="color: #333333;"></i>
+                    <i class="fa fa-angle-down" style="color: #000000;"></i>
                 </a>
                 <nav class="collapse position-absolute navbar navbar-vertical navbar-light align-items-start p-0 border border-top-0 border-bottom-0 bg-light" id="navbar-vertical" style="width: calc(100% - 30px); z-index: 9;">
                     <div class="navbar-nav w-100">
                         <a href="@Url.Action("IniciarSesion","Home")" class="nav-item nav-link" style="color: #333333;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#333333'">Salir</a>
                         <a href="@Url.Action("Profile","Home")" class="nav-item nav-link" style="color: #333333;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#333333'">Perfil</a>
+                        <a href="@Url.Action("MisCertificados","Home")" class="nav-item nav-link" style="color: #333333;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#333333'">Mis Certificados</a>
                         <a href="@Url.Action("Seguridad","Home")" class="nav-item nav-link" style="color: #333333;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#333333'">Seguridad</a>
                         <a href="@Url.Action("Admin","Home")" class="nav-item nav-link" style="color: #333333;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#333333'">Admin</a>
                     </div>
+
                 </nav>
+
             </div>
             <div class="col-lg-9">
                 <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0">
@@ -164,11 +177,12 @@
                             <a href="@Url.Action("Index","Home")" class="nav-item nav-link" style="color: #333333;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#333333'">Inicio</a>
                             <a href="@Url.Action("Proyectos","Home")" class="nav-item nav-link" style="color: #333333;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#333333'">Proyectos/Cursos</a>
                             <a href="@Url.Action("Calendario","Home")" class="nav-item nav-link" style="color: #333333;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#333333'">Calendario</a>
-                            
+                            <a href="@Url.Action("Foro","Home")" class="nav-item nav-link" style="color: #333333;" onmouseover="this.style.color='#7C3AED'" onmouseout="this.style.color='#333333'">Foro</a>
+
                         </div>
                     </div>
                 </nav>
-                <div class="col-lg-12" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+                <div class="col-lg-12" style="display: flex; justify-content: center; align-items: center; height: 100vh; max-width: 1200px;">
                     <div class="text-center">
                         @RenderBody()
                     </div>
@@ -176,26 +190,38 @@
             </div>
         </div>
     </div>
-    <footer class="sticky-footer bg-white">
-        <div class="container my-auto">
-            <div class="copyright text-center my-auto">
-                <span>Copyright &copy; @DateTime.Now.Year</span>
+        <div class="container-fluid text-white py-5 px-sm-3 px-lg-5" style="background:#333333;">
+            <div class="row pt-5">
+                <div class="col-md-6">
+                    <h5 class="text-uppercase mb-4" style="color: #7C3AED;">Contáctanos</h5>
+                    <p><i class="fas fa-map-marker-alt mr-2"></i>San José, Costa Rica</p>
+                    <p><i class="fas fa-phone-alt mr-2"></i>+506 8821-2322</p>
+                    <p><i class="fas fa-envelope mr-2"></i>info@ideasenaccion.com</p>
+                </div>
+                <div class="col-md-6 text-md-right">
+                    <h5 class="text-uppercase mb-4" style="color: #7C3AED;">Síguenos</h5><a class="btn btn-outline-light btn-square mr-2" role="button" href="#"><i class="fab fa-twitter"></i></a><a class="btn btn-outline-light btn-square mr-2" role="button" href="#"><i class="fab fa-facebook-f"></i></a><a class="btn btn-outline-light btn-square mr-2" role="button" href="#"><i class="fab fa-linkedin-in"></i></a>
+                </div>
             </div>
         </div>
-    </footer>
 
+<<<<<<< Updated upstream
     <a href="#" class="btn btn-lg btn-lg-square back-to-top" style="background-color: #3B82F6; color: #FFFFFF;">
 >>>>>>> main
         <i class="fa fa-angle-double-up"></i>
     </a>
+=======
+        <a href="#" class="btn btn-lg btn-lg-square back-to-top" style="background-color: #7C3AED; color: #FFFFFF;">
+            <i class="fa fa-angle-double-up"></i>
+        </a>
+>>>>>>> Stashed changes
 
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-    <script src="~/Templates/lib/easing/easing.min.js"></script>
-    <script src="~/Templates/lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="~/Templates/mail/jqBootstrapValidation.min.js"></script>
-    <script src="~/Templates/mail/contact.js"></script>
-    <script src="~/Templates/js/main.js"></script>
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+        <script src="~/Templates/lib/easing/easing.min.js"></script>
+        <script src="~/Templates/lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="~/Templates/mail/jqBootstrapValidation.min.js"></script>
+        <script src="~/Templates/mail/contact.js"></script>
+        <script src="~/Templates/js/main.js"></script>
 </body>
 
 </html>

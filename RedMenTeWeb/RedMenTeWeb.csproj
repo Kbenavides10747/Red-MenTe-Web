@@ -336,15 +336,31 @@
     <Content Include="Views\Shared\_LayoutAdmin.cshtml" />
     <Content Include="Views\Home\Admin.cshtml" />
     <Content Include="Views\Home\Estadisticas.cshtml" />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
     <Content Include="Views\Home\Foro.cshtml" />
     <Content Include="Views\Home\DetalleForo.cshtml" />
     <Content Include="Views\Home\CrearPublicacion.cshtml" />
     <Content Include="Views\Home\DetalleCertificados.cshtml" />
     <Content Include="Views\Home\MisCertificados.cshtml" />
     <Content Include="Views\Home\RecordatorioProgreso.cshtml" />
+<<<<<<< Updated upstream
 =======
 >>>>>>> main
+=======
+    <Content Include="Views\Home\Comparaciones.cshtml" />
+    <Content Include="Views\Home\Evaluadores.cshtml" />
+    <Content Include="Views\Home\Retroalimentacion.cshtml" />
+    <Content Include="Views\Home\GestionCertificados.cshtml" />
+    <Content Include="Views\Home\GestionForo.cshtml" />
+    <Content Include="Views\Home\GestionProyectos.cshtml" />
+    <Content Include="Views\Home\Patrocinadores.cshtml" />
+    <Content Include="Views\Home\Participantes.cshtml" />
+    <Content Include="Views\Home\GestionCalendario.cshtml" />
+    <Content Include="Views\Home\Voluntarios.cshtml" />
+>>>>>>> Stashed changes
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

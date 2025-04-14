@@ -14,7 +14,7 @@ namespace RedMenTeWeb.Controllers
         {
             return View();
         }
-
+#region Acceso
         [HttpGet]
         public ActionResult RegistrarCuenta()
         {
@@ -28,6 +28,15 @@ namespace RedMenTeWeb.Controllers
         }
 
         [HttpGet]
+
+        public ActionResult RecuperarContrasenna()
+        {
+            return View();
+        }
+        #endregion
+
+#region Usuario
+        [HttpGet]
         public ActionResult Proyectos()
         {
 
@@ -35,6 +44,7 @@ namespace RedMenTeWeb.Controllers
         }
 
         [HttpGet]
+<<<<<<< Updated upstream
 <<<<<<< HEAD
         public ActionResult RecordatorioProgreso()
         {
@@ -46,18 +56,14 @@ namespace RedMenTeWeb.Controllers
 =======
 >>>>>>> main
         public ActionResult Contact()
+=======
+        public ActionResult RecordatorioProgreso()
+>>>>>>> Stashed changes
         {
-            ViewBag.Message = "Your contact page.";
 
             return View();
         }
 
-        [HttpGet]
-
-        public ActionResult RecuperarContrasenna()
-        {
-            return View();
-        }
 
         [HttpGet]
         public ActionResult Calendario()
@@ -65,7 +71,10 @@ namespace RedMenTeWeb.Controllers
             return View();
         }
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         [HttpGet]
         public ActionResult Foro()
         {
@@ -83,8 +92,11 @@ namespace RedMenTeWeb.Controllers
         {
             return View();
         }
+<<<<<<< Updated upstream
 =======
 >>>>>>> main
+=======
+>>>>>>> Stashed changes
 
         [HttpGet]
         public ActionResult Profile()
@@ -93,6 +105,7 @@ namespace RedMenTeWeb.Controllers
         }
 
         [HttpGet]
+<<<<<<< Updated upstream
 <<<<<<< HEAD
         public ActionResult MisCertificados()
         {
@@ -109,10 +122,26 @@ namespace RedMenTeWeb.Controllers
 =======
 >>>>>>> main
         public ActionResult Seguridad()
+=======
+        public ActionResult MisCertificados()
+>>>>>>> Stashed changes
         {
             return View();
         }
 
+        [HttpGet]
+        public ActionResult DetalleCertificados()
+        {
+            return View();
+        }
+#endregion
+
+        [HttpGet]
+        public ActionResult Seguridad()
+        {
+            return View();
+        }
+#region Admin
         [HttpGet]
         public ActionResult Admin()
         {
@@ -123,5 +152,72 @@ namespace RedMenTeWeb.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public ActionResult GestionProyectos()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult Patrocinadores()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult GestionForo()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult GestionCertificados()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult Participantes()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult GestionCalendario()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult Voluntarios()
+        {
+            return View();
+        }
+
+        #endregion
+
+
+        #region Evaluador
+
+        [HttpGet]
+        public ActionResult Evaluadores()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult Comparaciones()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult Retroalimentacion()
+        {
+            return View();
+        }
+
+        #endregion
     }
 }

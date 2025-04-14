@@ -9462,11 +9462,15 @@ button.bg-dark:focus {
 }
 
 .text-primary {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   color: #7C3AED !important;
 =======
   color: #007bff !important;
 >>>>>>> main
+=======
+  color: #7C3AED !important;
+>>>>>>> Stashed changes
 }
 
 a.text-primary:hover, a.text-primary:focus {
